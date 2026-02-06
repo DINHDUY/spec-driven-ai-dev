@@ -1,0 +1,5 @@
+# Exclude cache folder from Cursor Agent indexing
+.cache/
+.reports/
+.tasks/
+README.md
